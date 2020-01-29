@@ -12,5 +12,5 @@ class person
   end 
   
   def
-  "#{@name} #{@job}".strip
+ ' #{@name} #{@job}'.strip
 end
